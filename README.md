@@ -24,7 +24,7 @@ You only need to install pandas and matplotlib:
 
 pip install pandas matplotlib
 
-### python sales_summary.py
+## python sales_summary.py
 ### Sales Summary:
 ###    product  total_qty  revenue
 ### 0   Apples         25    12.50
