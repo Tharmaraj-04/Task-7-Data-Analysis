@@ -24,16 +24,9 @@ You only need to install pandas and matplotlib:
 
 pip install pandas matplotlib
 
-python sales_summary.py
-Sales Summary:
-   product  total_qty  revenue
-0   Apples         25    12.50
-1  Bananas         15     4.50
-2  Oranges         15     9.00 
-+----------+-----------+---------+
-| Product  | Total Qty | Revenue |
-+----------+-----------+---------+
-| Apples   |        25 |   12.50 |
-| Bananas  |        15 |    4.50 |
-| Oranges  |        15 |    9.00 |
-+----------+-----------+---------+
+### python sales_summary.py
+### Sales Summary:
+###    product  total_qty  revenue
+### 0   Apples         25    12.50
+### 1  Bananas         15     4.50
+### 2  Oranges         15     9.00 
