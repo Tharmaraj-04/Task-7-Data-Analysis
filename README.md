@@ -29,6 +29,11 @@ Sales Summary:
    product  total_qty  revenue
 0   Apples         25    12.50
 1  Bananas         15     4.50
-2  Oranges         15     9.00
-
-
+2  Oranges         15     9.00 
++----------+-----------+---------+
+| Product  | Total Qty | Revenue |
++----------+-----------+---------+
+| Apples   |        25 |   12.50 |
+| Bananas  |        15 |    4.50 |
+| Oranges  |        15 |    9.00 |
++----------+-----------+---------+
